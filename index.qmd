@@ -1,0 +1,31 @@
+# Latent Variable Models in Ecology and their Inference via the EM Algorithm and its Extensions.  {.unlisted }
+
+ 
+## The authors  {.unnumbered }
+
+- [Sophie Donnet](https://sophiedonnet.github.io/), Senior researcher @ [MIA-Paris Saclay](https://mia-ps.inrae.fr/),  [INRAE](https://www.inrae.fr/), [<img class="logo" src="images/orcid.logo.icon.svg" style="width: 2%;" />](https://orcid.org0000-0003-4370-7316)
+- [Pierre Gloaguen](); Professor at [Université Bretagne Sud]
+ 
+
+- [Stéphane Robin](https://scj-robin.github.io/); Professor @ [Sorbonne Université] 
+
+
+## About the book  {.unnumbered }
+
+The philosophy of the book is provided [here](intentions.html)
+
+
+## Chapters 
+
+- 1.  Introduction
+- 2.  Latent variable models and the EM algorithm
+- 3.  Explicit E step
+- 4.  Approximated E step
+- 5. Stochastic E step
+
+
+
+
+
+
+

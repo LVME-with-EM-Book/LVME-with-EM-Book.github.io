@@ -1,0 +1,69 @@
+
+
+
+## Sophie Donnet {.unnumbered}
+
+::: {.columns}
+
+::: {.column width="30%"}
+![](images/sophie_donnet.png)
+:::
+
+::: {.column width="5%"}
+
+::: 
+::: {.column width="65%"}
+
+
+
+[blabla]
+:::
+
+:::
+
+
+
+## Pierre Gloaguen {.unnumbered}
+
+::: {.columns}
+
+::: {.column width="30%"}
+![](images/sophie_donnet.png)
+:::
+
+::: {.column width="5%"}
+
+::: 
+::: {.column width="65%"}
+
+
+
+[blabla]
+:::
+
+:::
+
+
+## Stéphane Robin  {.unnumbered}
+
+::: {.columns}
+
+::: {.column width="30%"}
+![](images/sophie_donnet.png)
+:::
+
+::: {.column width="5%"}
+
+::: 
+::: {.column width="65%"}
+
+
+
+[blabla]
+:::
+
+:::
+
+
+
+
