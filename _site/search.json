@@ -20,51 +20,11 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Latent Variable Models in Ecology and their Inference via the EM Algorithm and its Extensions.",
-    "section": "",
-    "text": "Sophie Donnet, Senior researcher @ MIA-Paris Saclay, INRAE, \nPierre Gloaguen; Professor at [Université Bretagne Sud]\nStéphane Robin; Professor @ [Sorbonne Université]\n\n\n\n\nThe philosophy of the book is provided here\n\n\n\n\n\nIntroduction\n\n\nLatent variable models and the EM algorithm\n\n\nExplicit E step\n\n\nApproximated E step\n\n\nStochastic E step",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#the-authors",
-    "href": "index.html#the-authors",
-    "title": "Latent Variable Models in Ecology and their Inference via the EM Algorithm and its Extensions.",
-    "section": "",
-    "text": "Sophie Donnet, Senior researcher @ MIA-Paris Saclay, INRAE, \nPierre Gloaguen; Professor at [Université Bretagne Sud]\nStéphane Robin; Professor @ [Sorbonne Université]",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#about-the-book",
-    "href": "index.html#about-the-book",
-    "title": "Latent Variable Models in Ecology and their Inference via the EM Algorithm and its Extensions.",
-    "section": "",
-    "text": "The philosophy of the book is provided here",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#chapters",
-    "href": "index.html#chapters",
-    "title": "Latent Variable Models in Ecology and their Inference via the EM Algorithm and its Extensions.",
-    "section": "",
-    "text": "Introduction\n\n\nLatent variable models and the EM algorithm\n\n\nExplicit E step\n\n\nApproximated E step\n\n\nStochastic E step",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
     "objectID": "authors.html",
     "href": "authors.html",
     "title": "",
     "section": "",
-    "text": "[blabla]",
+    "text": "Sophie Donnet is a statistician and researcher at INRAE at MIA-Paris-Saclay research laboratory. Her research focuses on statistical methodology for complex biological and ecological systems, with particular emphasis on latent variable models, mixture models, and network inference. She develops statistical methods for analysing structured and high-dimensional data arising in ecology and the life sciences. Her work combines methodological developments in statistical modelling with applications to biological and ecological questions.",
     "crumbs": [
       "Authors"
     ]
@@ -74,7 +34,7 @@
     "href": "authors.html#sophie-donnet",
     "title": "",
     "section": "",
-    "text": "[blabla]",
+    "text": "Sophie Donnet is a statistician and researcher at INRAE at MIA-Paris-Saclay research laboratory. Her research focuses on statistical methodology for complex biological and ecological systems, with particular emphasis on latent variable models, mixture models, and network inference. She develops statistical methods for analysing structured and high-dimensional data arising in ecology and the life sciences. Her work combines methodological developments in statistical modelling with applications to biological and ecological questions.",
     "crumbs": [
       "Authors"
     ]
@@ -117,6 +77,46 @@
     "text": "This book brings together the lecture notes from a series of courses that we have given or are still giving at the Master’s level in several universities: Université Paris-Saclay, Sorbonne Université, Université Bretagne-Sud.\n\n\nIt aims to present the entire approach of statistical ecology, i.e., starting with a set of data collected to answer an ecological question, proposing a statistical model, designing an inference method to estimate its parameters, and then interpret the results to answer the initial question. A major focus is done on mathematical formalization, both of the model and the inference method, in the purpose of performing quantitative ecology.\nStarting from data and ecological questions, this book illustrates the perpetual compromise of statistical modeling between the “realistic” character of a model, which pushes for complexity, and the need for inference, which pushes for simplicity.\n\n\n\nThis illustration is made by exploring the specific but very broad category of latent variable models, and their inference using a common keystone, the Expectation-Maximization algorithm.\nBy fully formalizing the mathematical model adopted to answer the ecological question, we aim at identifying its specificities that make the statistical inference simple or complex. Consequently, for each model considered, all the statistical machinery is deployed and all the calculations are detailed, to enable the reader to do the same for the model she or he will have to deal with in her or his own research.\n\n\n\nThe book is organized into chapters according to the increasing difficulty of the inference. These chapters contain methodological sections that present generic tools, unrelated to any particular application, and data analysis sections that present a specific model, motivated by a particular ecological problem. Each of these sections is introduced by the presentation of an ecological data set, for which a statistical model is proposed. We try to emphasize the common structure and the differences between the successive models that we present. We then present the statistical method to perform inference, always revolving around the Expectation Maximization algorithm, designed for maximum likelihood inference. All the concepts and useful outputs of the model are illustrated on datasets or questions that we, as researchers in statistics, encountered when we worked with ecologists.\n\n\n\nThis book is therefore aimed on the one hand at Masters and PhD students with a mathematical background and interested in statistical ecology, and on the other hand at ecologists wishing to deepen their statistical training. We hope that the former will find interest in the link between well known models in statistical learning (clustering methods, hidden Markov models…) and challenging applications in ecology, and that they will be able to make bridges between methods that are often too much compartmented. We hope that ecologists will find a clear and unambiguous formulation for models that they might have used for a long time, and that this formulation would reveal some useful subtleties about the when and why of their usage.\n\n\n\nIt is always useful to precise what this book is not about. This book is not about an extensive overview of all statistical methods in ecology. For instance, we do not cover the basic (but fundamental) tools of statistical ecology which are the linear regression, the analysis-of-variance model or the generalized linear model, even if we widely cover some extensions of these. We then assume that the reader has a minimal knowledge of these models and there assumptions. This book is not meant to be purely operational, as we do not focus on software implementation and do not provide an extensive list or description of packages that performs inference for the discussed models.\nFinally, by making some choices about specific models, this book does not covers all latent variable models. For instance, we do not discuss the modeling of data whose dependencies are induced by a continuous spatial domain, which is a subject in its own right and for which a huge number of specific models, theories and methods have been proposed.\nWith this same logic, as we decided to emphasize the broad applicability of the EM algorithm, we do not focus on Bayesian statistics, even if several issues commonly encountered in Bayesian are extensively discussed, such as the inference of conditional distribution and, in less extent, methods for sampling in these distributions.",
     "crumbs": [
       "Intentions"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Latent Variable Models in Ecology and their Inference via the EM Algorithm and its Extensions.",
+    "section": "",
+    "text": "Sophie Donnet, Senior researcher @ MIA-Paris Saclay, INRAE, \nPierre Gloaguen; Professor at [Université Bretagne Sud]\nStéphane Robin; Professor @ [Sorbonne Université]\n\n\n\n\nThe philosophy of the book is provided here\n\n\n\n\n\nIntroduction\n\n\nLatent variable models and the EM algorithm\n\n\nExplicit E step\n\n\nApproximated E step\n\n\nStochastic E step",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#the-authors",
+    "href": "index.html#the-authors",
+    "title": "Latent Variable Models in Ecology and their Inference via the EM Algorithm and its Extensions.",
+    "section": "",
+    "text": "Sophie Donnet, Senior researcher @ MIA-Paris Saclay, INRAE, \nPierre Gloaguen; Professor at [Université Bretagne Sud]\nStéphane Robin; Professor @ [Sorbonne Université]",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#about-the-book",
+    "href": "index.html#about-the-book",
+    "title": "Latent Variable Models in Ecology and their Inference via the EM Algorithm and its Extensions.",
+    "section": "",
+    "text": "The philosophy of the book is provided here",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#chapters",
+    "href": "index.html#chapters",
+    "title": "Latent Variable Models in Ecology and their Inference via the EM Algorithm and its Extensions.",
+    "section": "",
+    "text": "Introduction\n\n\nLatent variable models and the EM algorithm\n\n\nExplicit E step\n\n\nApproximated E step\n\n\nStochastic E step",
+    "crumbs": [
+      "Home"
     ]
   }
 ]
